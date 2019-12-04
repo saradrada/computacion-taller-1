@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="17" passed="17">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="377" started-at="2019-09-25T09:28:59Z" finished-at="2019-09-25T09:29:00Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="377" started-at="2019-09-25T09:28:59Z" finished-at="2019-09-25T09:29:00Z">
+      <class name="co.edu.icesi.RutaTest">
+        <test-method status="PASS" signature="initMocks()[pri:0, instance:co.edu.icesi.RutaTest@46d56d67]" name="initMocks" is-config="true" duration-ms="249" started-at="2019-09-25T04:28:59Z" finished-at="2019-09-25T04:28:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initMocks -->
+        <test-method status="PASS" signature="testAgregarRuta()[pri:0, instance:co.edu.icesi.RutaTest@46d56d67]" name="testAgregarRuta" duration-ms="45" started-at="2019-09-25T04:28:59Z" finished-at="2019-09-25T04:28:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAgregarRuta -->
+        <test-method status="PASS" signature="testDiaFinMayorLimite()[pri:0, instance:co.edu.icesi.RutaTest@46d56d67]" name="testDiaFinMayorLimite" duration-ms="4" started-at="2019-09-25T04:28:59Z" finished-at="2019-09-25T04:28:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDiaFinMayorLimite -->
+        <test-method status="PASS" signature="testDiaFinNegativo()[pri:0, instance:co.edu.icesi.RutaTest@46d56d67]" name="testDiaFinNegativo" duration-ms="1" started-at="2019-09-25T04:28:59Z" finished-at="2019-09-25T04:28:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDiaFinNegativo -->
+        <test-method status="PASS" signature="testDiaFinNull()[pri:0, instance:co.edu.icesi.RutaTest@46d56d67]" name="testDiaFinNull" duration-ms="3" started-at="2019-09-25T04:28:59Z" finished-at="2019-09-25T04:28:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDiaFinNull -->
+        <test-method status="PASS" signature="testDiaInicioMayor()[pri:0, instance:co.edu.icesi.RutaTest@46d56d67]" name="testDiaInicioMayor" duration-ms="1" started-at="2019-09-25T04:28:59Z" finished-at="2019-09-25T04:28:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDiaInicioMayor -->
+        <test-method status="PASS" signature="testDiaInicioMayorLimite()[pri:0, instance:co.edu.icesi.RutaTest@46d56d67]" name="testDiaInicioMayorLimite" duration-ms="2" started-at="2019-09-25T04:28:59Z" finished-at="2019-09-25T04:28:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDiaInicioMayorLimite -->
+        <test-method status="PASS" signature="testDiaInicioNegativo()[pri:0, instance:co.edu.icesi.RutaTest@46d56d67]" name="testDiaInicioNegativo" duration-ms="1" started-at="2019-09-25T04:28:59Z" finished-at="2019-09-25T04:28:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDiaInicioNegativo -->
+        <test-method status="PASS" signature="testDiaInicioNull()[pri:0, instance:co.edu.icesi.RutaTest@46d56d67]" name="testDiaInicioNull" duration-ms="2" started-at="2019-09-25T04:28:59Z" finished-at="2019-09-25T04:28:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDiaInicioNull -->
+        <test-method status="PASS" signature="testHoraFinMayorLimite()[pri:0, instance:co.edu.icesi.RutaTest@46d56d67]" name="testHoraFinMayorLimite" duration-ms="1" started-at="2019-09-25T04:28:59Z" finished-at="2019-09-25T04:28:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHoraFinMayorLimite -->
+        <test-method status="PASS" signature="testHoraFinNegativa()[pri:0, instance:co.edu.icesi.RutaTest@46d56d67]" name="testHoraFinNegativa" duration-ms="2" started-at="2019-09-25T04:28:59Z" finished-at="2019-09-25T04:28:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHoraFinNegativa -->
+        <test-method status="PASS" signature="testHoraFinNull()[pri:0, instance:co.edu.icesi.RutaTest@46d56d67]" name="testHoraFinNull" duration-ms="0" started-at="2019-09-25T04:28:59Z" finished-at="2019-09-25T04:28:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHoraFinNull -->
+        <test-method status="PASS" signature="testHoraInicioMayor()[pri:0, instance:co.edu.icesi.RutaTest@46d56d67]" name="testHoraInicioMayor" duration-ms="1" started-at="2019-09-25T04:28:59Z" finished-at="2019-09-25T04:28:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHoraInicioMayor -->
+        <test-method status="PASS" signature="testHoraInicioMayorLimite()[pri:0, instance:co.edu.icesi.RutaTest@46d56d67]" name="testHoraInicioMayorLimite" duration-ms="1" started-at="2019-09-25T04:28:59Z" finished-at="2019-09-25T04:28:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHoraInicioMayorLimite -->
+        <test-method status="PASS" signature="testHoraInicioNegativa()[pri:0, instance:co.edu.icesi.RutaTest@46d56d67]" name="testHoraInicioNegativa" duration-ms="2" started-at="2019-09-25T04:28:59Z" finished-at="2019-09-25T04:28:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHoraInicioNegativa -->
+        <test-method status="PASS" signature="testHoraInicioNull()[pri:0, instance:co.edu.icesi.RutaTest@46d56d67]" name="testHoraInicioNull" duration-ms="1" started-at="2019-09-25T04:28:59Z" finished-at="2019-09-25T04:28:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHoraInicioNull -->
+        <test-method status="PASS" signature="testHorasIguales()[pri:0, instance:co.edu.icesi.RutaTest@46d56d67]" name="testHorasIguales" duration-ms="1" started-at="2019-09-25T04:29:00Z" finished-at="2019-09-25T04:29:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHorasIguales -->
+        <test-method status="PASS" signature="testRutaNull()[pri:0, instance:co.edu.icesi.RutaTest@46d56d67]" name="testRutaNull" duration-ms="2" started-at="2019-09-25T04:29:00Z" finished-at="2019-09-25T04:29:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRutaNull -->
+      </class> <!-- co.edu.icesi.RutaTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
